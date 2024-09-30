@@ -6,6 +6,5 @@ flowchart TD;
 17-->21
 21-->?
 ?-->3
-
-Find the missing old number and add it into the flow chart. 
 ```
+Find the missing old number and add it into the flow chart. 
